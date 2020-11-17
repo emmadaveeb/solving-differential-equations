@@ -13,4 +13,8 @@ S = α/β,
 
 I = N − S
 
-Check that this is what the numerical solution (i.e. the modified Euler method) approaches for large enough values of T , and with n large enough. Note that N here is a parameter of the model (like α and β).
+Check that this is what the numerical solution (i.e. the modified Euler method) approaches for large enough values of T, and with n large enough. Note that N here is a parameter of the model (like α and β).
+
+For more details on SIS model:
+
+https://sites.me.ucsb.edu/~moehlis/APC514/tutorials/tutorial_seasonal/node2.html

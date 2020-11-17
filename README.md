@@ -3,7 +3,8 @@ Solving differential equations using the modified euler method modelled using C+
 
 The example is for an infectious disease model called the SIS model. The model has two states S and I, and the equations are:
 
- dS/dt = αI − βSI
+ dS/dt = αI − βSI,
+
  dI/dt = βSI − αI
  
 This model has an equilibrium given by:

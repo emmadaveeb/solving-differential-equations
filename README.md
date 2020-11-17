@@ -9,6 +9,8 @@ The example is for an infectious disease model called the SIS model. The model h
  
 This model has an equilibrium given by:
 
-S = α/β, I = N − S
+S = α/β, 
+
+I = N − S
 
 Check that this is what the numerical solution (i.e. the modified Euler method) approaches for large enough values of T , and with n large enough. Note that N here is a parameter of the model (like α and β).
